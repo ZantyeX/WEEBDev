@@ -1,0 +1,33 @@
+<svg width="760" height="520" viewBox="0 0 760 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<title id="title">Children learning in a bright coding club</title>
+<desc id="desc">A teacher helps children use laptops and robot kits at a table.</desc>
+<rect width="760" height="520" rx="44" fill="#EEF4FF"/>
+<rect x="56" y="58" width="648" height="376" rx="30" fill="white"/>
+<rect x="96" y="101" width="198" height="118" rx="20" fill="#CFF5E7"/>
+<path d="M121 187L158 148L190 171L239 127L270 153" stroke="#4D69E8" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="126" cy="127" r="12" fill="#FFD966"/>
+<rect x="336" y="99" width="324" height="26" rx="13" fill="#E8ECF8"/>
+<rect x="336" y="142" width="265" height="18" rx="9" fill="#E8ECF8"/>
+<rect x="336" y="176" width="218" height="18" rx="9" fill="#E8ECF8"/>
+<rect x="116" y="329" width="526" height="48" rx="18" fill="#8EDCC0"/>
+<rect x="138" y="376" width="24" height="82" rx="12" fill="#1D2B53"/>
+<rect x="596" y="376" width="24" height="82" rx="12" fill="#1D2B53"/>
+<circle cx="195" cy="283" r="43" fill="#A86942"/>
+<path d="M154 283C157 239 228 230 237 282C216 263 184 258 154 283Z" fill="#1D2B53"/>
+<rect x="154" y="320" width="82" height="65" rx="25" fill="#FF9D73"/>
+<rect x="179" y="333" width="93" height="54" rx="9" fill="#4D69E8"/>
+<rect x="188" y="340" width="75" height="36" rx="5" fill="#EAF0FF"/>
+<circle cx="531" cy="282" r="43" fill="#C98358"/>
+<path d="M491 281C496 238 568 230 574 282C554 262 522 258 491 281Z" fill="#342842"/>
+<rect x="490" y="319" width="83" height="66" rx="25" fill="#FFD966"/>
+<rect x="452" y="334" width="91" height="52" rx="9" fill="#4D69E8"/>
+<rect x="461" y="341" width="73" height="34" rx="5" fill="#EAF0FF"/>
+<circle cx="372" cy="245" r="46" fill="#B4734E"/>
+<path d="M328 246C330 197 408 192 417 246C399 223 356 218 328 246Z" fill="#1D2B53"/>
+<rect x="330" y="286" width="86" height="99" rx="27" fill="#79D8B2"/>
+<path d="M330 316L285 348" stroke="#1D2B53" stroke-width="12" stroke-linecap="round"/>
+<path d="M416 316L447 345" stroke="#1D2B53" stroke-width="12" stroke-linecap="round"/>
+<rect x="302" y="350" width="143" height="36" rx="14" fill="#FF7A59"/>
+<circle cx="326" cy="389" r="15" fill="#1D2B53"/>
+<circle cx="420" cy="389" r="15" fill="#1D2B53"/>
+</svg>

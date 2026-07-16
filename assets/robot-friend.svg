@@ -1,0 +1,39 @@
+<svg width="720" height="560" viewBox="0 0 720 560" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<title id="title">A friendly robot helping two children build a small car</title>
+<desc id="desc">Simple colourful drawing for a children's coding and robotics club.</desc>
+<rect width="720" height="560" rx="48" fill="#FFF7DE"/>
+<circle cx="90" cy="90" r="44" fill="#FFD966"/>
+<circle cx="645" cy="95" r="36" fill="#CFF5E7"/>
+<path d="M55 430C160 330 260 495 365 405C470 315 550 405 680 320V560H40L55 430Z" fill="#D9E8FF"/>
+<rect x="274" y="126" width="176" height="154" rx="42" fill="#4D69E8"/>
+<rect x="299" y="153" width="126" height="76" rx="28" fill="white"/>
+<circle cx="335" cy="190" r="12" fill="#1D2B53"/>
+<circle cx="389" cy="190" r="12" fill="#1D2B53"/>
+<path d="M337 218C350 230 375 230 388 218" stroke="#1D2B53" stroke-width="8" stroke-linecap="round"/>
+<path d="M362 126V90" stroke="#1D2B53" stroke-width="10" stroke-linecap="round"/>
+<circle cx="362" cy="77" r="15" fill="#FF7A59"/>
+<rect x="295" y="279" width="136" height="118" rx="30" fill="#79D8B2"/>
+<circle cx="363" cy="338" r="25" fill="#FFF7DE"/>
+<path d="M295 306L230 350" stroke="#1D2B53" stroke-width="18" stroke-linecap="round"/>
+<path d="M431 306L492 349" stroke="#1D2B53" stroke-width="18" stroke-linecap="round"/>
+<path d="M326 395L306 466" stroke="#1D2B53" stroke-width="20" stroke-linecap="round"/>
+<path d="M400 395L421 466" stroke="#1D2B53" stroke-width="20" stroke-linecap="round"/>
+<circle cx="222" cy="357" r="18" fill="#FF7A59"/>
+<circle cx="500" cy="357" r="18" fill="#FF7A59"/>
+<circle cx="200" cy="303" r="48" fill="#C77B4A"/>
+<path d="M154 298C158 247 245 236 252 299C228 277 194 271 154 298Z" fill="#1D2B53"/>
+<rect x="151" y="347" width="104" height="116" rx="34" fill="#FF9D73"/>
+<path d="M176 462L162 516" stroke="#1D2B53" stroke-width="16" stroke-linecap="round"/>
+<path d="M229 462L240 516" stroke="#1D2B53" stroke-width="16" stroke-linecap="round"/>
+<path d="M247 375L292 406" stroke="#1D2B53" stroke-width="14" stroke-linecap="round"/>
+<circle cx="529" cy="301" r="48" fill="#8D5A3B"/>
+<path d="M483 301C485 253 565 239 579 300C558 276 521 270 483 301Z" fill="#342842"/>
+<rect x="478" y="347" width="104" height="116" rx="34" fill="#FFD966"/>
+<path d="M502 462L491 516" stroke="#1D2B53" stroke-width="16" stroke-linecap="round"/>
+<path d="M556 462L570 516" stroke="#1D2B53" stroke-width="16" stroke-linecap="round"/>
+<path d="M481 375L435 407" stroke="#1D2B53" stroke-width="14" stroke-linecap="round"/>
+<rect x="285" y="430" width="157" height="45" rx="18" fill="#FF7A59"/>
+<circle cx="315" cy="477" r="20" fill="#1D2B53"/>
+<circle cx="412" cy="477" r="20" fill="#1D2B53"/>
+<rect x="326" y="410" width="75" height="31" rx="12" fill="#FFD966"/>
+</svg>
